@@ -1,0 +1,112 @@
+Analiza pliku: dane1.dat
+Adam Nowak zasieg: 12
+Anna Kowalska zasieg: 10
+Piotr Wiśniewski zasieg: 13.3333
+Karolina Jankowska: przejechano dystans bez zużycia paliwa
+Marcin Wójcik zasieg: 12.5
+Magdalena Kaczmarek zasieg: 12.8571
+Krzysztof Szymański zasieg: 12.2222
+Aleksandra Lewandowska zasieg: 14
+Michał Dąbrowski zasieg: 12.8571
+Natalia Piotrowska: samochod nie był używany
+Marek Zając zasieg: 11.8182
+Julia Król zasieg: 12.5
+Mateusz Pawlak: zużyto paliwo przy zerowym przebiegu
+Zofia Wojciechowska zasieg: 12.3077
+Janina Kozłowska zasieg: 12.5
+Tomasz Jasiński zasieg: 12.5
+Alicja Szewczyk: samochod nie był używany
+Robert Brzeziński zasieg: 11.6667
+Katarzyna Krupa zasieg: 12.2222
+
+Analiza pliku: dane2.dat
+Wojciech Zawadzki zasieg: 11.875
+Ewa Kubiak: samochod nie był używany
+Łukasz Dudek zasieg: 12
+Patrycja Sobczak zasieg: 12.1429
+Grzegorz Adamczyk: przejechano dystans bez zużycia paliwa
+Karolina Nowakowska zasieg: 12.8571
+Mikołaj Górecki zasieg: 12.2222
+Agata Tomczak zasieg: 12
+Kamil Jóźwiak: samochod nie był używany
+Sylwia Nowicka zasieg: 11.8182
+Rafał Malinowski zasieg: 13.0769
+Izabela Pawlak: zużyto paliwo przy zerowym przebiegu
+Marek Zięba zasieg: 12.5
+Dominika Sikora zasieg: 11.875
+Kacper Kowalczyk zasieg: 12.2222
+Oliwia Rogowska zasieg: 11.6667
+Jarosław Sadowski: przejechano dystans bez zużycia paliwa
+Agnieszka Kaczor zasieg: 12.3077
+Hubert Witkowski: samochod nie był używany
+Monika Majewska zasieg: 12.5
+
+Analiza pliku: dane3.dat
+Dawid Kowal zasieg: 11.4286
+Julia Kwiatkowska: samochod nie był używany
+Artur Sawicki zasieg: 12.2222
+Nina Ratajczak zasieg: 11.25
+Kamil Olejnik zasieg: 12
+Wiktoria Duda: samochod nie był używany
+Marek Różański zasieg: 12.7273
+Sandra Kołodziej zasieg: 12.5
+Daniel Lis: zużyto paliwo przy zerowym przebiegu
+Aleksandra Kot zasieg: 12.5
+Bartosz Stępień zasieg: 12.3077
+Justyna Kołodziejczyk: samochod nie był używany
+Marcin Adamczyk zasieg: 12.8571
+Weronika Kania zasieg: 12.2222
+Kacper Szymczak zasieg: 11.875
+Magdalena Cieślak zasieg: 12
+Rafał Piotrkowski: samochod nie był używany
+Dominika Witkowska zasieg: 12.5
+Tomasz Majewski zasieg: 11.8182
+Izabela Szulc zasieg: 12
+
+Analiza pliku: dane4.dat
+Krzysztof Szymański zasieg: 12.2222
+Aleksandra Lewandowska zasieg: 14
+Michał Dąbrowski zasieg: 12.8571
+Natalia Piotrowska: samochod nie był używany
+Marek Zając zasieg: 11.8182
+Julia Król zasieg: 12.5
+Mateusz Pawlak: zużyto paliwo przy zerowym przebiegu
+Zofia Wojciechowska zasieg: 12.3077
+Janina Kozłowska zasieg: 12.5
+Tomasz Jasiński zasieg: 12.5
+
+Analiza pliku: dane5.dat
+Dominika Witkowska zasieg: 12.5
+Tomasz Majewski zasieg: 11.8182
+Izabela Szulc zasieg: 12
+Filip Jaworski: samochod nie był używany
+Alicja Różańska zasieg: 11.6667
+Mikołaj Kowalik zasieg: 12.2222
+Monika Jankowska zasieg: 12.1429
+Adam Nowak zasieg: 12
+Anna Kowalska zasieg: 10
+
+Analiza pliku: dane6.dat
+Sandra Kołodziej zasieg: 12.5
+Daniel Lis: samochod nie był używany
+Aleksandra Kot zasieg: 12.5
+Bartosz Stępień zasieg: 12.3077
+Justyna Kołodziejczyk: przejechano dystans bez zużycia paliwa
+Marcin Adamczyk zasieg: 12.8571
+Weronika Kania zasieg: 12.2222
+Kacper Szymczak zasieg: 11.875
+Magdalena Cieślak zasieg: 12
+Rafał Piotrkowski: samochod nie był używany
+
+Analiza pliku: dane7.dat
+Agata Tomczak zasieg: 12
+Kamil Jóźwiak: samochod nie był używany
+Sylwia Nowicka zasieg: 11.8182
+Rafał Malinowski zasieg: 13.0769
+Izabela Pawlak: przejechano dystans bez zużycia paliwa
+Marek Zięba zasieg: 12.5
+Dominika Sikora zasieg: 11.875
+Kacper Kowalczyk zasieg: 12.2222
+Oliwia Rogowska zasieg: 11.6667
+Jarosław Sadowski: samochod nie był używany
+

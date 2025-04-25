@@ -1,0 +1,3 @@
+/Users/michau/Documents/c_pp/240118/240118_2/cmake-build-debug/CMakeFiles/240118_2.dir
+/Users/michau/Documents/c_pp/240118/240118_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michau/Documents/c_pp/240118/240118_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
